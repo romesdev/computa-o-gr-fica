@@ -1,2 +1,3 @@
-# computa-o-gr-fica
+# Computação Gráfica
 códigos relacionados a computação gráfica
+
