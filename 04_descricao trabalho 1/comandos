@@ -1,0 +1,51 @@
+Manual de Comandos - Praça 
+
+
+    't'://habilitar transformações no objeto selecionado   
+
+    'a': //habilitar adição de objetos no cenário.
+       
+    'p': //selecionar um objeto. podendo pecorrer todos os objetos.
+       
+    'v': //voltar para o objeto selecionado anteriormente.
+        
+    'd'://deletar o objeto selecionado
+       
+    'u'://deletar o ultimo objeto
+       
+    '?'://mudar o estado da visualização da origem
+        
+    '+': incluir Base
+        
+    '-': incluir coberta
+       
+    'm': incluir Monumento
+        
+    'b': incluir Banco       
+       
+    '/': incluir Estatua        
+
+    'f': desabilitar selecao do objeto
+        desabilitarSelecao();
+
+   //comandos para a camera
+    'c':// camera padrao	
+   	
+    '1'://camera visando a ponta do monumento
+            
+    '2'://visão da estatua e o monomento            
+
+    '3'://olhando a silhueta da estatua           
+
+    '4'://visão da cobertura
+             
+    '5'://ponta do monumento de outro angulo
+          
+    '6'://visão estatua e cobertura
+          
+  
+   // comandos para memoria
+   '0': salvar cenario
+   
+   '.': carregar o cenario novamente
+  
